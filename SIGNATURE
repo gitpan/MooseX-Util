@@ -1,0 +1,56 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.68.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 2c2d45468b6335e83cda4ca9fe7f01d9a891bd34 Changes
+SHA1 ef1e17c70b6c11287a9ffad517210c16e82e144e INSTALL
+SHA1 05207cbc5971035849c1de2c7cb3babaeaccb6fb LICENSE
+SHA1 8c3eda3aec99fc3d5f1fc40a341284a3e814295f MANIFEST
+SHA1 b0591a6aa9bfcef7e4374a9ec8e92a8c43ffb891 META.json
+SHA1 18c3cac5c4499a9887f6462e8b394c94593e3654 META.yml
+SHA1 34764bb99ed7dd3ebc9bd8aeb5039dd4a962d252 Makefile.PL
+SHA1 bcb8bc52485e782f5cb1c5e62f0aadc24d15ecaa README
+SHA1 c7568c9cd13a7ffb94d6e9ccc55318245eeb4084 dist.ini
+SHA1 7f23b88284f98a8cda4c2ad7e053fd847f007eb2 lib/MooseX/TraitFor/Moose/Meta/Class/BetterAnonClassNames.pm
+SHA1 e01b3600ab0192b3e12b3516b6e9734ca2d2acbb lib/MooseX/Traitor.pm
+SHA1 a959979e2d553ed5b2562cb97215275a9a005377 lib/MooseX/Util.pm
+SHA1 c004db8e66f0a206df91a8a74e7de048c0b8e228 lib/MooseX/Util/Meta/Class.pm
+SHA1 586f9a12517d33ba55569642805a7d79e6eaeca1 t/00-compile.t
+SHA1 cfbae68f42e049ac91a3dfae9ab5d089adc90076 t/000-report-versions-tiny.t
+SHA1 e6aeec1819349c87fc7c3365bc2056a334608910 t/author-pod-spell.t
+SHA1 0683e692436715a093d6529b90cc715344e86e33 t/basic.t
+SHA1 8c30ccdc8edb0068d65c67fd0f73f016fd7c28a5 t/metaclass/compat.t
+SHA1 fa153c8d7c5fbb7c47f344ef093476be56ce4c86 t/metaclass/validate.t
+SHA1 9c3627ff37f4fd5bddc34bf46cf3359eaf76a060 t/release-consistent-version.t
+SHA1 a032c41ef6887fab1b900669c2d304fab46680e2 t/release-eol.t
+SHA1 34e3e565c39e58c275f610f79fd806b76b3e1c85 t/release-has-version.t
+SHA1 ede598bc8cb5046b8ec8975c8728f9f25b75c6a8 t/release-no-smart-comments.t
+SHA1 455d1dd1867212a665ad5ea4126b572411de300c t/release-no-tabs.t
+SHA1 57cb3eaeddb08aec2537795bd7883700aefa7ebd t/release-pod-coverage.t
+SHA1 e948405104d3168766e2ce3de7197fae29622b13 t/release-pod-syntax.t
+SHA1 1ca156fcf19aabcac21ceb5d1ae818afb5224e4e t/release-portability.t
+SHA1 d9a74397133e1d370a6f17781fb67d8ddb895ab2 t/traitor.t
+SHA1 daeedd3d03c65412de697707b2cef07a6a0047eb t/with_traits.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJQjsjwAAoJEOd5N1CvIgQkaOUH/RYpLv/lmgoZd4vClLrTS7Ly
+y61Hg+A4NetJoaYwV+8h72pU7K8HeaxQBnh1qn59hJ690yc5npMaKgTA0xwT/sRv
+KIruh6PH38MtR/DelZeTvBs9H6bW/le7n0y66Ah/ijU7UYkmH+qCfT7PRFSg6ZVY
+G9MWsvPVhiF3LtBNQ7GirsDjinHvJk6ezKrXwfjUmkBYgP/AovqHgpQgjwT49/bb
+clws9B47oUKkeehjoHEg4fDu13UwbRv04Iewh4zq72ChmvP6/JU2GCtQekgYh5Yb
+OyNjPyavN7ULRKTWLn942P758g56WfS06thoyru7ubPw5DGHzAaPLFcY6QhF4l0=
+=Fht3
+-----END PGP SIGNATURE-----
