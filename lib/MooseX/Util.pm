@@ -8,9 +8,11 @@
 #   The GNU Lesser General Public License, Version 2.1, February 1999
 #
 package MooseX::Util;
-{
-  $MooseX::Util::VERSION = '0.001';
+BEGIN {
+  $MooseX::Util::AUTHORITY = 'cpan:RSRCHBOY';
 }
+# git description: 0.001-9-gffe1241
+$MooseX::Util::VERSION = '0.002';
 
 # ABSTRACT: Moose::Util extensions
 
@@ -41,7 +43,7 @@ __END__
 
 =pod
 
-=encoding utf-8
+=encoding UTF-8
 
 =for :stopwords Chris Weyl
 
@@ -51,7 +53,7 @@ MooseX::Util - Moose::Util extensions
 
 =head1 VERSION
 
-This document describes version 0.001 of MooseX::Util - released October 29, 2012 as part of MooseX-Util.
+This document describes version 0.002 of MooseX::Util - released March 03, 2014 as part of MooseX-Util.
 
 =head1 SYNOPSIS
 

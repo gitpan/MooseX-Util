@@ -8,10 +8,10 @@
 #   The GNU Lesser General Public License, Version 2.1, February 1999
 #
 package MooseX::Traitor;
-{
-  $MooseX::Traitor::VERSION = '0.001';
+BEGIN {
+  $MooseX::Traitor::AUTHORITY = 'cpan:RSRCHBOY';
 }
-
+$MooseX::Traitor::VERSION = '0.002';
 # ABSTRACT: An alternate way to compose your classes with traits
 
 use Moose::Role;
@@ -34,7 +34,7 @@ __END__
 
 =pod
 
-=encoding utf-8
+=encoding UTF-8
 
 =for :stopwords Chris Weyl composable CLOS behaviour behaviours
 
@@ -44,7 +44,7 @@ MooseX::Traitor - An alternate way to compose your classes with traits
 
 =head1 VERSION
 
-This document describes version 0.001 of MooseX::Traitor - released October 29, 2012 as part of MooseX-Util.
+This document describes version 0.002 of MooseX::Traitor - released March 03, 2014 as part of MooseX-Util.
 
 =head1 SYNOPSIS
 

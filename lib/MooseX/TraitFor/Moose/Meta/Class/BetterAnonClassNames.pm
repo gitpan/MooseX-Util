@@ -8,10 +8,10 @@
 #   The GNU Lesser General Public License, Version 2.1, February 1999
 #
 package MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames;
-{
-  $MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames::VERSION = '0.001';
+BEGIN {
+  $MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames::AUTHORITY = 'cpan:RSRCHBOY';
 }
-
+$MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames::VERSION = '0.002';
 # ABSTRACT: Metaclass trait
 
 use Moose::Role;
@@ -125,7 +125,7 @@ __END__
 
 =pod
 
-=encoding utf-8
+=encoding UTF-8
 
 =for :stopwords Chris Weyl
 
@@ -135,7 +135,7 @@ MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames - Metaclass trait
 
 =head1 VERSION
 
-This document describes version 0.001 of MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames - released October 29, 2012 as part of MooseX-Util.
+This document describes version 0.002 of MooseX::TraitFor::Moose::Meta::Class::BetterAnonClassNames - released March 03, 2014 as part of MooseX-Util.
 
 =head1 SEE ALSO
 

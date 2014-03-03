@@ -2,8 +2,8 @@ NAME
     MooseX::Util - Moose::Util extensions
 
 VERSION
-    This document describes version 0.001 of MooseX::Util - released October
-    29, 2012 as part of MooseX-Util.
+    This document describes version 0.002 of MooseX::Util - released March
+    03, 2014 as part of MooseX-Util.
 
 SYNOPSIS
         use MooseX::Util qw{ ensure_all_roles with_traits };

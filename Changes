@@ -1,5 +1,10 @@
 Revision history for MooseX-Util
 
+0.002     2014-03-03 12:17:31 PST-0800
+	* Drop Reindeer as a prereq (oops)
+	* Add a cpanfile
+	* Mark v5.10 as the, ah, maximum minimum version of Perl
+
 0.001     2012-10-29 11:20:28 PST8PDT
 	* Initial release
 	* we only override with_traits() at this point (in MX::Utils), in order to
