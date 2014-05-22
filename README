@@ -2,8 +2,8 @@ NAME
     MooseX::Util - Moose::Util extensions
 
 VERSION
-    This document describes version 0.002 of MooseX::Util - released March
-    03, 2014 as part of MooseX-Util.
+    This document describes version 0.003 of MooseX::Util - released May 22,
+    2014 as part of MooseX-Util.
 
 SYNOPSIS
         use MooseX::Util qw{ ensure_all_roles with_traits };
@@ -18,8 +18,8 @@ DESCRIPTION
 
     However.
 
-    We've reimplemented a number of the functions our parent provides, for a
-    variety of reasons. Those functions are documented here.
+    We've re-implemented a number of the functions our parent provides, for
+    a variety of reasons. Those functions are documented here.
 
 FUNCTIONS
   with_traits(<classname> => (<trait1>, ... )
@@ -53,8 +53,8 @@ SEE ALSO
 
 SOURCE
     The development version is on github at
-    <http://github.com/RsrchBoy/moosex-util> and may be cloned from
-    <git://github.com/RsrchBoy/moosex-util.git>
+    <http://https://github.com/RsrchBoy/moosex-util> and may be cloned from
+    <git://https://github.com/RsrchBoy/moosex-util.git>
 
 BUGS
     Please report any bugs or feature requests on the bugtracker website
@@ -65,6 +65,19 @@ BUGS
 
 AUTHOR
     Chris Weyl <cweyl@alumni.drew.edu>
+
+  I'm a material boy in a material world
+    Please note I do not expect to be gittip'ed or flattr'ed for this work,
+    rather it is simply a very pleasant surprise. I largely create and
+    release works like this because I need them or I find it enjoyable;
+    however, don't let that stop you if you feel like it ;)
+
+    Flattr this
+    <https://flattr.com/submit/auto?user_id=RsrchBoy&url=https%3A%2F%2Fgithu
+    b.com%2FRsrchBoy%2Fmoosex-util&title=RsrchBoy's%20CPAN%20MooseX-Util&tag
+    s=%22RsrchBoy's%20MooseX-Util%20in%20the%20CPAN%22>, gittip me
+    <https://www.gittip.com/RsrchBoy/>, or indulge my Amazon Wishlist
+    <http://bit.ly/rsrchboys-wishlist>... If you so desire.
 
 COPYRIGHT AND LICENSE
     This software is Copyright (c) 2012 by Chris Weyl.

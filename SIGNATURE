@@ -15,46 +15,44 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 55ac697642a18dd7d974736a3d06fd531aa82382 .travis.yml
-SHA1 5c71783075c4def0dfb553996df5f5aa2c5a0ffa Changes
-SHA1 ef1e17c70b6c11287a9ffad517210c16e82e144e INSTALL
+SHA1 6149448934e89564afd45f046efc126fb7e12d7e Changes
 SHA1 bf2d713ceca5b8ad3d680ed15baba1b89df7e149 LICENSE
-SHA1 cddf908e738aaab5df045ad9509cb5a105f7b74f MANIFEST
-SHA1 f265c7d23b1a8ac87cfb692f3a619d0b0477726e META.json
-SHA1 cd97b69f0fde64bb825fb327be2d1607026e28b8 META.yml
-SHA1 17ab75fb13b8b4bd87c7ed848c9c898337dbec28 Makefile.PL
-SHA1 78260a6bb60374bb1eb5a97bf3297a9d01a5632e README
-SHA1 1b3df87091eb05a242a1cd26f1d579e293c91427 cpanfile
-SHA1 7d704c9e28ed0b094b28c3557478c2ceae572069 dist.ini
-SHA1 03c54953f8142dcf00874c97f607e007113059bd lib/MooseX/TraitFor/Moose/Meta/Class/BetterAnonClassNames.pm
-SHA1 fe67e87882be0068017df7d03f07a9b127f55a1c lib/MooseX/Traitor.pm
-SHA1 b8997ce4bf81f6c0ef799864fb7f883ab4cb2592 lib/MooseX/Util.pm
-SHA1 f3d479da959e94171b3031eabfd43c0117e6bb28 lib/MooseX/Util/Meta/Class.pm
+SHA1 4a5c64edb473abf48cae6d139a45c86012ee1927 MANIFEST
+SHA1 18e59404e1373bd97f6f4f9ceee5a6759dd78d33 META.json
+SHA1 b97ad66d6d9b533b734d2723cc66c6409119336e META.yml
+SHA1 72012e38092fb81a9d9bb9586a1acb2662b08633 Makefile.PL
+SHA1 1a69fcdc5e46e0036f0b026303b2d257cdab2106 README
+SHA1 e9db023e9aa0ed97a10369e596d3190fabd5bd44 cpanfile
+SHA1 5f32ccd3482c1256b22aa9b6d0c736ac96d029b9 dist.ini
+SHA1 1a00dcc11430a0ad75ba94299aee2866afad2b0c lib/MooseX/Traitor.pm
+SHA1 d1faf91e7ca44b1cba9185e32fadc9d9183b27a9 lib/MooseX/Util.pm
+SHA1 48f1e3ea9e83bdcff4d1aaeed11393c7a7b2ebb0 lib/MooseX/Util/Meta/Class.pm
 SHA1 c522c3928158e64bd97d34d20cbfe0b5305a7eb2 t/00-check-deps.t
-SHA1 da947d901aeabeca2276ee398142a7536c1e3811 t/00-compile.t
-SHA1 5eeced311c99a21ad20be07159bdd2683082f9f8 t/000-report-versions-tiny.t
+SHA1 3add0a4bd3f37d94caa25c0c93b7cca6a0212bd8 t/00-compile.t
+SHA1 d3e6f4fe92376c2f2e379571cdbaacef8066958e t/000-report-versions-tiny.t
 SHA1 0683e692436715a093d6529b90cc715344e86e33 t/basic.t
-SHA1 8c30ccdc8edb0068d65c67fd0f73f016fd7c28a5 t/metaclass/compat.t
-SHA1 fa153c8d7c5fbb7c47f344ef093476be56ce4c86 t/metaclass/validate.t
+SHA1 3842affd7935fe53a2384a2291fedc6c9c307569 t/metaclass/compat.t
+SHA1 57ed6527191d42f9c400f65bffadc21104d191c3 t/metaclass/validate.t
 SHA1 d9a74397133e1d370a6f17781fb67d8ddb895ab2 t/traitor.t
 SHA1 daeedd3d03c65412de697707b2cef07a6a0047eb t/with_traits.t
-SHA1 b3550201f4b35632b0151b2e7dcfc836205ede6d xt/author/pod-spell.t
+SHA1 f0915da92562fa5847429ee75a3f415bad9323ca xt/author/pod-spell.t
 SHA1 a7948d34cfaad400286ea5d5fa6206c4c7e2552c xt/release/consistent-version.t
 SHA1 b3915eaac65e18e6a048b34a4b873beccab326b4 xt/release/eol.t
 SHA1 5de2d0a31f4a779bc869b24718ed0dff99a65c03 xt/release/has-version.t
 SHA1 3ac89cc76192a7d339cb87e003f2eb373d24679c xt/release/minimum-version.t
 SHA1 3c756e91fb0c1f19442a2f9262ef7c89713a0c90 xt/release/no-smart-comments.t
-SHA1 1b6433084047b329b3aa5ac149b4019fd20f62cc xt/release/no-tabs.t
+SHA1 ac826cd669b0b24714fcca40c8c993257e53571f xt/release/no-tabs.t
 SHA1 71ddf29306befd05bebaaa0821ae5e78653906de xt/release/pod-coverage.t
 SHA1 f5475d72adeab52db4a0a8c412657be8dcbbfb54 xt/release/pod-linkcheck.t
 SHA1 100d6521ae4ea7f324b4570f7b2d1fd27de9c928 xt/release/pod-syntax.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJTFONrAAoJEOd5N1CvIgQkZq4H/j/wcRYcUUvUXbei6y+Ahvd0
-uIbS4nP64Zvr92sLij0w28Zaz9mKzO/CCT1+PmBKNQm6yGsZEVYs5yjdKQO2l3pf
-rQHugGBtgL8iDhp0V+iLBQgT+IYMiHaDWUl10ViVRYzakg9N6qIU2RnOdIPVAUJV
-SOomrciVTm7dW2//UFlIQpL390+bDUnny8V6JE7b3JZvgZhUbBti1+4z2VrD0eaI
-lLkC8ScD2h8d6GHWTDejXIcI+QeML6DxQa4MdAkC3tHia+wcFqqoUY9N3BhTyUWh
-18faiYSIVmFfK1Z6wwe3+9F6kCRCJGrVg0G4kFgdleX3elnz6u7gc3SyOYKNpQE=
-=+ky8
+iQEcBAEBAgAGBQJTflB1AAoJEOd5N1CvIgQkG1AH/1kPicRzBGDvd0wiR0sVV/Jr
+fwdfMhnZAieJSynPmRSUgnFBJ7mGAEdKh2ogQxMIKa4AqUaZa6ye1Qqhkd2AsW7N
+1kyLdIIvDBntUiVHlXLsGvhHNjUUCqqDt5XEN8X//MH/jIO5g3PW/Xk09gQNk8Dw
+d4UIVxJ1Xp/Y9FgNgvIkvRhnu30Au+bSleeO9myGMyhZxsgxtVysyqtIBl3AB04S
+IKqQFpsDDjRAn1AZ0Xvr4kb5h+2km3+YvM5nEmGr5TCfNw1+0UIgqu9NZpLY/qBK
+BOly6PsDGR5iIjPq/Sd1v0YibXYtJT/DZrH0yvjhAKSTjNBaXcTQ30DJEDG6JOY=
+=5WLL
 -----END PGP SIGNATURE-----
